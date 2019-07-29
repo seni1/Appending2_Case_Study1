@@ -1,0 +1,2 @@
+# Appending2_Case_Study1
+Appending Data (cont.) Below is the same notebook you worked on in the previous "Appending Data" section. Add a new cell below the first code cell (where you imported packages and loaded data) to fix the problematic column label in the red dataframe.  Use pandas' rename function to change the total_sulfur-dioxide column label to total_sulfur_dioxide. You can check out this Stack Overflow page to help you.  Then, rerun all the cells below that to append the dataframes and save your successfully combined dataset!
